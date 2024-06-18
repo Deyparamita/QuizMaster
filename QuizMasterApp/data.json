@@ -1,0 +1,216 @@
+[
+    {
+        "1": "What is Python?",
+        "2": "What are Python's key features?",
+        "3": "What is PEP 8?",
+        "4": "How do you comment in Python?",
+        "5": "What is a variable in Python?",
+        "6": "How do you print in Python?",
+        "7": "What are Python's arithmetic operators?",
+        "8": "How do you create a list in Python?",
+        "9": "How do you access elements in a list in Python?",
+        "10": "What is slicing in Python?",
+        "11": "How do you create a tuple in Python?",
+        "12": "What is the difference between lists and tuples?",
+        "13": "How do you create a dictionary in Python?",
+        "14": "How do you access dictionary elements in Python?",
+        "15": "What are Python's comparison operators?",
+        "16": "What are Python's logical operators?",
+        "17": "How do you use if statements in Python?",
+        "18": "How do you use for loops in Python?",
+        "19": "How do you use while loops in Python?",
+        "20": "What are functions in Python?",
+        "21": "How do you define a function in Python?",
+        "22": "What is the return statement used for in Python?",
+        "23": "What are Python's built-in data types?",
+        "24": "What is type conversion in Python?",
+        "25": "What is exception handling in Python?",
+        "26": "How do you raise exceptions in Python?",
+        "27": "What are modules in Python?",
+        "28": "How do you import modules in Python?",
+        "29": "What are Python packages?",
+        "30": "How do you install packages in Python?"
+    },
+    {
+        "1": [
+            "A snake species",
+            "A database management system",
+            "A programming language",
+            "An operating system"
+        ],
+        "2": [
+            "Cross-platform",
+            "Simple and easy to learn",
+            "Extensible and versatile",
+            "Open source with a large community"
+        ],
+        "3": [
+            "A Python-based GUI toolkit",
+            "Python Enhancement Proposal 8, guidelines for Python code",
+            "Python's official mascot",
+            "A Python package for web development"
+        ],
+        "4": [
+            "' This is a comment",
+            "/* This is a comment */",
+            "// This is a comment",
+            "# This is a comment"
+        ],
+        "5": [
+            "A named storage for data",
+            "A function in Python",
+            "A type of loop in Python",
+            "A keyword in Python"
+        ],
+        "6": [
+            "console.log('Hello, World!')",
+            "echo('Hello, World!')",
+            "printf('Hello, World!')",
+            "print('Hello, World!')"
+        ],
+        "7": [
+            "&, |, ^, ~",
+            "+, -, *, /, %",
+            ">>, <<",
+            "**, //"
+        ],
+        "8": [
+            "my_list = list[]",
+            "my_list = {}",
+            "my_list = list()",
+            "my_list = []"
+        ],
+        "9": [
+            "By index: my_list[index]",
+            "Using a loop",
+            "By key in dictionaries",
+            "All of the above"
+        ],
+        "10": [
+            "Sorting a list",
+            "Converting one data type to another",
+            "Selecting parts of a string",
+            "Selecting parts of a list or other sequence"
+        ],
+        "11": [
+            "my_tuple = {}",
+            "my_tuple = ()",
+            "my_tuple = tuple[]",
+            "my_tuple = tuple()"
+        ],
+        "12": [
+            "There is no difference",
+            "Lists are mutable, tuples are immutable",
+            "Tuples are ordered, lists are unordered",
+            "Lists cannot store multiple types of elements"
+        ],
+        "13": [
+            "my_dict = dict()",
+            "my_dict = dict[]",
+            "my_dict = {}",
+            "my_dict = {key: value}"
+        ],
+        "14": [
+            "By index: my_dict[index]",
+            "By key: my_dict[key]",
+            "By value: my_dict[value]",
+            "By pair: my_dict[(key, value)]"
+        ],
+        "15": [
+            "=, <>, >, <, >=, <=",
+            "==, !=, <>, >, <",
+            "==, !=, >, <, >=, <=",
+            "==, !=, =>, <, <="
+        ],
+        "16": [
+            "&&, ||, !",
+            "&, |, ~",
+            "and, or, not",
+            "AND, OR, NOT"
+        ],
+        "17": [
+            "if <condition>",
+            "if {condition}",
+            "if (condition)",
+            "if condition:"
+        ],
+        "18": [
+            "for item in iterable:",
+            "for (item in iterable)",
+            "for {item in iterable}",
+            "for <item in iterable>"
+        ],
+        "19": [
+            "while <condition>",
+            "while {condition}",
+            "while (condition)",
+            "while condition:"
+        ],
+        "20": [
+            "Predefined functions in Python",
+            "Special characters in Python",
+            "Data storage in Python",
+            "Reusable blocks of code"
+        ],
+        "21": [
+            "define function_name(parameters):",
+            "def function_name(parameters):",
+            "function function_name(parameters)",
+            "function_name(parameters):"
+        ],
+        "22": [
+            "To document a function",
+            "To define a function",
+            "To call a function",
+            "To return a value from a function"
+        ],
+        "23": [
+            "number, string, boolean, array, object",
+            "variable, constant, array, object",
+            "integer, float, string, array",
+            "int, float, str, list, tuple, dict"
+        ],
+        "24": [
+            "Creating new variables",
+            "Converting one variable type to another",
+            "Comparing variables",
+            "Swapping two variables"
+        ],
+        "25": [
+            "Avoiding loops in Python",
+            "A method of sorting in Python",
+            "Handling unexpected errors",
+            "Improving performance of Python code"
+        ],
+        "26": [
+            "exception 'Error message'",
+            "throw Exception('Error message')",
+            "raise Exception('Error message')",
+            "raise error 'Error message'"
+        ],
+        "27": [
+            "A version of Python",
+            "A special function in Python",
+            "A type of data in Python",
+            "Reusable code segments"
+        ],
+        "28": [
+            "from module_name import",
+            "include module_name",
+            "require module_name",
+            "import module_name"
+        ],
+        "29": [
+            "Data structures in Python",
+            "Functions written in Python",
+            "A group of Python programmers",
+            "Collections of related modules"
+        ],
+        "30": [
+            "Using git: git install package_name",
+            "Using package manager: apt-get install package_name",
+            "Using python: python install package_name",
+            "Using pip: pip install package_name"
+        ]
+    }
+]
